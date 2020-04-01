@@ -67,23 +67,27 @@ The game offers these modes: **Tutorial**, **Adventure** and **Infinite Dungeon*
 
 ### Player Experience
 
-First time Players are immediately taken to the Tutorial so that they can learn the basic mechanics of the game.
+First time Players are immediately taken to the Tutorial so that they can learn the basic mechanics of the game. The Tutorial can be skipped or completed and then, they will be redirected to the main menu.
+Here the Player can select one of the aforementioned game modes:
+1) Adventures
+2) Infinite Dungeon
+3) Tutorial
 
-Provide a general overview of how the player experiences the game. Walk them through the screens they will see, what the level looks like and what their character can do. Give them a brief idea of objectives & hazards they will face.  This should be in a second-person point of view using the word “you” to tell a story to the audience (players).
+> Provide a general overview of how the player experiences the game. Walk them through the screens they will see, what the level looks like and what their character can do. Give them a brief idea of objectives & hazards they will face.  This should be in a second-person point of view using the word “you” to tell a story to the audience (players).
 
 ### Gameplay Guidelines
 
-This is a set of guidelines that the game must adhere to throughout the development process. These include rules for what is allowed and not allowed in the game. For instance, if you are creating a game for children, you will want to define guidelines for the level of violence presented in the game, what language can be used, and so on.
+> This is a set of guidelines that the game must adhere to throughout the development process. These include rules for what is allowed and not allowed in the game. For instance, if you are creating a game for children, you will want to define guidelines for the level of violence presented in the game, what language can be used, and so on.
 
 ### Game Objectives & Rewards
 
-This is where you present more details on how the gameplay will motivate the player to progress through the game. Discuss rewards and penalties and the difficulty level. You can use the table below to help break down objectives and rewards.
+> This is where you present more details on how the gameplay will motivate the player to progress through the game. Discuss rewards and penalties and the difficulty level. You can use the table below to help break down objectives and rewards.
 
-| Rewards | Penalties | Difficulity Levels |
+> | Rewards | Penalties | Difficulity Levels |
 
 ### Gameplay Mechanics
 
-This is the where you start getting more specific on how some of the systems in the game will work. This includes how characters move in the game, what gameplay actions are available, item inventory and attributes, and how the game progresses from level to level.
+> This is the where you start getting more specific on how some of the systems in the game will work. This includes how characters move in the game, what gameplay actions are available, item inventory and attributes, and how the game progresses from level to level.
 
 
 #### Character Attributes
@@ -96,22 +100,21 @@ This is the where you start getting more specific on how some of the systems in 
 
 Each Adventure has one of three difficulty level: Easy, Normal, Hard
 
-
-Scoring System
-TBD
-
-#### Points/Coins/Stars/Grades/Etc.
-
-How it’s Awarded & Benefits
-List the scoring attribute
-Describe how the player obtains this and the benefits. For instance, does getting more points unlock a special level.
+> Scoring System
+> TBD
+>
+> #### Points/Coins/Stars/Grades/Etc.
+>
+> How it’s Awarded & Benefits
+> List the scoring attribute
+> Describe how the player obtains this and the benefits. For instance, does getting more points unlock a special level.
 
 ### Level Design
 
-Discuss the levels. How many levels will the game have, what will be included in each level. Include overall look and feel, hazards the level presents, difficulty, objectives, etc.
+> Discuss the levels. How many levels will the game have, what will be included in each level. Include overall look and feel, hazards the level presents, difficulty, objectives, etc.
 
 ## Game Aesthetics & User Interface
 
-Discuss the design techniques to be used. Describe the look & shape of the characters, environment and pathways. Will the game look realistic or have some other art style. Discuss what type of theme the game will have & what type of emotional impact you are hoping players experience. Discuss how the player’s gestures/interactivity has an affect on the visual experience.
+> Discuss the design techniques to be used. Describe the look & shape of the characters, environment and pathways. Will the game look realistic or have some other art style. Discuss what type of theme the game will have & what type of emotional impact you are hoping players experience. Discuss how the player’s gestures/interactivity has an affect on the visual experience.
 
-Present a general overview of the UI. How will the buttons be laid out, how will the HUD work, how does the menu system function, and so on. It is a good idea to insert photos, diagrams or concept art to help explain the UI.
+> Present a general overview of the UI. How will the buttons be laid out, how will the HUD work, how does the menu system function, and so on. It is a good idea to insert photos, diagrams or concept art to help explain the UI.
